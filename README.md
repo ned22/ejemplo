@@ -12,7 +12,7 @@
 
 **esto tambien es bold** __este tambien es bold__
 
-~~esto es un tachado~~
+~~esto es un tachado~~ 
 
 ### un codigo javascript
 ```javascript
